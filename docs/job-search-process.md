@@ -541,7 +541,7 @@ Effective Job Search Strategies,2025-08-14T14:49:08,Human,How can I copy/paste t
 Effective Job Search Strategies,2025-08-14T14:29:02,AI,"## ATS-optimized resume
 
 Brian Hurst  
-Hartford, CT
+Hartford
 
 Target titles: Technical Writer • Communications Specialist • UX Writer • Content Designer • Knowledge Management Writer
 
