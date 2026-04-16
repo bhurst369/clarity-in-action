@@ -1,0 +1,9 @@
+site_name: Documentation Practice
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Session 1: session1-practice.md
+  - AI & Automation: AI-and-automation-skill-development.md
+  - Job Search: job-search-process.md
