@@ -540,9 +540,6 @@ Would you like me to do that now?"
 Effective Job Search Strategies,2025-08-14T14:49:08,Human,How can I copy/paste this spreadsheet ready hits list?
 Effective Job Search Strategies,2025-08-14T14:29:02,AI,"## ATS-optimized resume
 
-Brian Hurst  
-Hartford
-
 Target titles: Technical Writer • Communications Specialist • UX Writer • Content Designer • Knowledge Management Writer
 
 Summary  
@@ -671,9 +668,6 @@ Balanced across local healthcare anchors, adjacent industries that prize regulat
 ---
 
 ## 📄 Resume – Targeted Version (Human‑Optimized)
-
-**BRIAN HURST**  
-**Communications & UX Content Specialist** | Hartford, CT
 
 **Summary**  
 Communications and UX content professional with 10+ years’ experience translating complex systems into clear, engaging content. Proven track record in healthcare and tech of creating user‑centered documentation, driving cross‑functional collaboration, and elevating product experiences. Skilled at aligning messaging to regulatory, business, and user needs.
