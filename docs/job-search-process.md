@@ -1,14 +1,7 @@
 
-### 🛠 Quick setup in Excel
-1. **Copy** everything between the triple backticks above.
-2. **Paste** into a blank Excel sheet (it should auto‑split into columns).
-3. Adjust **column widths** and apply filters (`Ctrl + Shift + L`) so you can sort by Stage, Date Added, or Last Touch.
-4. Add **conditional formatting**:
-   - *Green* fill for `Warmed` or later stages.
-   - *Yellow* for prospects with `Last Touch` > 7 days ago.
-   - *Red* for `Lead` stage older than 14 days with no activity.
+## Early planning
 
----
+(Removing Excel instructions)
 
 ### ⏱ Keep momentum
 - **Prospecting block**: add 5–10 entries each week.
